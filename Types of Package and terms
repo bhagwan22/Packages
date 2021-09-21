@@ -1,0 +1,26 @@
+# Unamanaged package
+__________________
+- can not be updradable
+- no name space
+- no IP Security
+
+# Manage packege
+__________________
+- 1GP
+  => 1(major).1(minor).1(path)
+    ex: package 0 is major
+        0.1, 0.2, ... is minor
+	and
+	0.0.1 is a patch org
+  
+- 2GP
+  => 1(major).1(minor).1(path).1(build for VCS)
+
+
+PACKAGE TYPE
+____________
+# Managed BETA:
+  - not upgradable, have to uninstall first version and then only install new version
+
+# Managed Released
+  - is upgradable
