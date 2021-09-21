@@ -24,7 +24,8 @@ Note:
   (*) when it is Released then only major veriosn increases
   (*) build number is controlled by VCS so if a new build is made it keep on trackeing the build no. for us, and multiple dev team can work simuntanously with have there owen Build.
 	also two dev team can have same build no. but they are differ by branch name and while proceeding towerd release/Beta they have to undergo merege 
-	
+  (*) @namespaceAccessible new annotation to share between multiple package
+  
 PACKAGE TYPE
 ____________
 # Managed BETA:
