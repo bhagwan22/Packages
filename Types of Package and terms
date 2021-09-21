@@ -12,11 +12,19 @@ __________________
         0.1, 0.2, ... is minor
 	and
 	0.0.1 is a patch org
+Note:
+  (*) all minor verison are installable but in BETA
+  (*) when it is Released then only major veriosn increases
   
 - 2GP
   => 1(major).1(minor).1(path).1(build for VCS)
 
-
+Note:
+  (*) all minor verison are installable but in BETA
+  (*) when it is Released then only major veriosn increases
+  (*) build number is controlled by VCS so if a new build is made it keep on trackeing the build no. for us, and multiple dev team can work simuntanously with have there owen Build.
+	also two dev team can have same build no. but they are differ by branch name and while proceeding towerd release/Beta they have to undergo merege 
+	
 PACKAGE TYPE
 ____________
 # Managed BETA:
